@@ -1,0 +1,4 @@
+#Tue Jan 03 19:47:56 IST 2023
+base.0=/home/admin1/React Native/FirstApp/AwesomeProject/android/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
